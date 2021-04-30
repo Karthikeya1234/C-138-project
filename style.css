@@ -1,0 +1,14 @@
+.devoloper {
+    position: fixed;
+    color: red;
+    bottom: 0%;
+    width: 100pc;
+    background-color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.play_button {
+    width: 130px;
+    font-size: 25px;
+}
